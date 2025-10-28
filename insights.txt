@@ -1,0 +1,19 @@
+1-Sales
+
+Showing how sales are affected by months, stores, main product categories, and product subcategory categories in addition to some filters.
+
+2-Monthly Sales
+
+More focus on comparing sales by day and product category with the previous month to show if the results are continuously improving or not.
+
+3- Customer Behavior
+
+Dashboard contains:
+
+Creative charts reflecting rush days and times in each month.
+
+Top and Bottom Selling Products
+
+How the product unit price affects the sold quantities
+
+differentiated by color and shape=specific category , icon size= count.
